@@ -6,9 +6,9 @@
 #define LORA_RST    14   
 #define LORA_DIO0  26   
 
-#define LORA_SCK   18   // SCK  -> ESP32 GPIO18
-#define LORA_MISO  19   // MISO -> ESP32 GPIO19
-#define LORA_MOSI  23   // MOSI -> ESP32 GPIO13
+#define LORA_SCK   18   
+#define LORA_MISO  19  
+#define LORA_MOSI  23   
 
 #define BUTTON_PIN 27   
 #define LORA_FREQ 433E6 
